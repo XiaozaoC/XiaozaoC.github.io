@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Zihao Cai's personal homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zihao Cai"
 description              : &description "personal description"
 url                      : https://xiaozaoc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
