@@ -16,9 +16,11 @@ You can find my CV here: [Zihao Cai's Curriculum Vitae](../assets/Curriculum_Vit
 
 Relevant Coursework
 ======
-·python             ·c++
-·Data Structures    ·Machine Learning      ·Deep Learning    ·Stochastic Process
-·Data Mining        ·Large Language Model  ·Metaverse
+·python &emsp; ·c++
+
+·Data Structures &emsp; ·Machine Learning &emsp; ·Deep Learning &emsp; ·Stochastic Process
+
+·Data Mining &emsp; ·Large Language Model &emsp; ·Metaverse
 
 Award
 ======
