@@ -25,8 +25,11 @@ Relevant Coursework
 Award
 ======
 Honorable Mentions | Mathematical Contest In Modeling (MCM)  |  May 2023 
+
 Second Prize | China Undergraduate Mathematical Contest in Modeling  |  Sept 2023
+
 Second Prize | Mathorcup Student Mathematical Contest in Modeling  |  June 2023 
+
 SCUT Annual Undergraduate Foreign Exchange Funding | July 2023
 
 Experience
