@@ -12,7 +12,7 @@ I'm a third year undergraduate student from [School of Future Tech](http://www2.
 
 You can find my CV here: [Zihao Cai's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](zihaocai@outlook.com) / [Github](https://github.com/XiaozaoC) / [Wechat](../images/wechat.jpg) 
+[Email](zihaocai@outlook.com) / [Github](https://github.com/XiaozaoC) / [Wechat](../images/wechat.jpg) / [blog](www.taotech.site)
 
 Relevant Coursework
 ======
